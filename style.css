@@ -102,4 +102,22 @@ a:hover{
     font-weight: bolder;
     text-decoration: none;
 }
+@media(max-width:400px){
+   .main{
+    width : 20rem;
+   } 
+   input{
+    width: 250px;
+   }
+button{
+    width: 300px; 
+   
+}
+.create{
+    width: 10rem;
+   
+}
+.tagline{
+    font-size: 22px;}
+}
 
