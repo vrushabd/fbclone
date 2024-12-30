@@ -126,5 +126,12 @@ button{
 }
 .tagline{
     font-size: 22px;}
+    footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    line-height: 11px;
+    background-color: #36454F;
+    color:#e5e7eb;
+    }
 }
 
