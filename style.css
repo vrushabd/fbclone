@@ -58,6 +58,13 @@ input{
     border-radius: 6px;
     
 }
+footer{
+    padding-bottom: 10px;
+    padding-top: 10px;
+    line-height: 11px;
+    background-color: #36454F;
+    color:#e5e7eb;
+}
 button{
     background-color: #0866ff;
     border: none;
